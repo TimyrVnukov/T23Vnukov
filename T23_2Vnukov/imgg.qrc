@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/imgg">
+        <file>img-home2/0.jpg</file>
+        <file>img-home2/1.JPG</file>
+        <file>img-home2/2.JPG</file>
+        <file>img-home2/3.JPG</file>
+        <file>img-home2/4.JPG</file>
+        <file>img-home2/5.JPG</file>
+        <file>img-home2/6.JPG</file>
+        <file>img-home2/7.JPG</file>
+        <file>img-home2/8.JPG</file>
+        <file>img-home2/9.JPG</file>
+        <file>img-home2/10.JPG</file>
+        <file>img-home2/11.JPG</file>
+        <file>img-home2/12.JPG</file>
+    </qresource>
+</RCC>
